@@ -1,0 +1,3 @@
+[submodule "OpenVRMetal"]
+	path = OpenVRMetal
+	url = https://github.com/cbirkhold/OpenVRMetal.git
